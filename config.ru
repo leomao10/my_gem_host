@@ -1,7 +1,7 @@
 require "rubygems"
 require "geminabox"
 
-Geminabox.data = "/Users/leo.liang/data/gems"
+Geminabox.data = "data/gems"
 Geminabox.build_legacy = false
 
 run Geminabox
